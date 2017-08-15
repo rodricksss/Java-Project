@@ -1,0 +1,22 @@
+SMAP
+sellerprofile_jsp.java
+JSP
+*S JSP
+*F
++ 0 sellerprofile.jsp
+sellerprofile.jsp
++ 1 masterseller.jsp
+masterseller.jsp
+*L
+5,13:52
+18,5:66
+22,3:71
+5#1,227:74
+232,5:302
+236,121:307
+24#0,2:428
+26,2:431
+27,31:433
+58,2:464,3
+60,37:470
+*E
